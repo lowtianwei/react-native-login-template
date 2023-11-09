@@ -1,0 +1,9 @@
+{
+  "name": "tianwei-login",
+  "version": "1.0.0",
+  "description": "React Native Custom Template",
+  "files": [
+    "template",
+    "template.config.js"
+  ]
+}
